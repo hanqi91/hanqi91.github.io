@@ -1,3 +1,10 @@
+------
+layout: post
+title: IDEA常用快捷键
+description: 
+category: blog
+---
+
 ##IDEA官方快捷键文档
 [IntelliJIDEA_ReferenceCard.pdf](https://www.jetbrains.com/idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 上面的文档中列举的快捷键很全,
